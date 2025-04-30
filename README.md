@@ -1,7 +1,7 @@
 # Flight Delay Prediction and Analysis Using PySpark and AWS
 
 <p align="center">
-  <img src="Mining-Big-Data-Flight-Delay-Classification/architecturaldiagram.png" width="600" alt="Streamlit UI of Research Paper Summarizer"/>
+  <img src="Mining-Big-Data-Flight-Delay-Classification/architectural-diagram.png" width="600" alt="Streamlit UI of Research Paper Summarizer"/>
 </p>
 
 This repository provides an end-to-end workflow for **flight delay analysis and prediction**, leveraging **PySpark**, **AWS EMR**, **Amazon S3**, and **AWS Athena**. The project uses a publicly available **US DOT Flight Delays** dataset (from 2015) to demonstrate data cleaning, enrichment, visualization, and machine learning (ML) modeling. Below is an overview of each step, from setup to deployment.
